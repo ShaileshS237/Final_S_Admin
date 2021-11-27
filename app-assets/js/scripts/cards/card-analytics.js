@@ -715,7 +715,7 @@ $(window).on('load', function () {
     series: [53, 16, 31],
     legend: { show: false },
     comparedResult: [2, -3, 8],
-    labels: ['App', 'Service', 'Product'],
+    labels: ['Total', 'Placed', 'Non Placed'],
     stroke: { width: 0 },
     colors: [$earningsStrokeColor2, $earningsStrokeColor3, window.colors.solid.success],
     grid: {
